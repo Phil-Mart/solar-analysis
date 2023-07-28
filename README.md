@@ -19,3 +19,7 @@ The state of Texas has a notoriously laissez-faire approach to consumer energy r
 # Conclusion
 
 While this short project has only just begun, it outlines the next steps I will take to leverage my data and empower myself in my pursuit of energy independence. These data collection and storytelling skills are what I can bring to any energy organization that is ready to harness my passion and talents for a brighter future.
+
+
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
