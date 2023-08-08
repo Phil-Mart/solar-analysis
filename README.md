@@ -14,7 +14,7 @@ After reviewing my documentation, it is clear that my solar system is not yieldi
 
 # Next Phase: Calculating Potential Earnings
 
-The state of Texas has a notoriously laissez-faire approach to consumer energy rights, and therefore does not enforce that my energy provider should pay for the energy I produce on their behalf or provide me with credits as compensation. This collected data lays the initial groundwork to leverage my legal options so that I can contest my current policy and negotiate future compensation.
+The State of Texas does not currently have a buy-back mandate for solar production from pritate owned systems, meaning that there's also a considerable amount of money being made from energy exports from this system. This collected data lays the initial groundwork to leverage my legal options so that I can contest my current policy and negotiate future compensation, possibly by switching plans based on buy-back rates.
 
 # Conclusion
 
